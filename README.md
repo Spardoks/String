@@ -1,4 +1,4 @@
-# String ![BuildStatus](https://travis-ci.org/Spardoks/String.svg?branch=main)
+# String ![BuildStatus](https://travis-ci.org/Spardoks/String.svg?branch=master)
 Один из вариантов реализации класса String
 
 # Сборка для тестирования (фреймворк Catch)
